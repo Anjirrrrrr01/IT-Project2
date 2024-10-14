@@ -34,7 +34,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h1 class="text-center mb-4">Halaman Kelola Kasir</h1>
+                <h1 class="text-center mb-4">Halaman Kelola Kasir kawan</h1>
 
                 <!-- Pesan sukses -->
                 @if(session('success'))
