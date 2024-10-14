@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
